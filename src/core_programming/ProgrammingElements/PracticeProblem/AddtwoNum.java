@@ -1,4 +1,4 @@
-package core_programming.PracticeProblem;/*2. Add Two Numbers
+package core_programming.ProgrammingElements.PracticeProblem;/*2. Add Two Numbers
 Write a program that takes two numbers as input from the user and prints
 their sum.
 */

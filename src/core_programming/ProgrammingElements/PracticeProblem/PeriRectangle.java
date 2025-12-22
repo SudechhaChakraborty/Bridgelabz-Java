@@ -1,4 +1,4 @@
-package core_programming.PracticeProblem;/*
+package core_programming.ProgrammingElements.PracticeProblem;/*
 2. Perimeter of a Rectangle
 Write a program to calculate the perimeter of a rectangle. Take the length
 and width as inputs and use the formula:

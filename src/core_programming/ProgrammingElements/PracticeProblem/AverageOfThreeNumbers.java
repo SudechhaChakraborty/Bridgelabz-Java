@@ -1,4 +1,4 @@
-package core_programming.PracticeProblem;/*4. Calculate Average of Three Numbers
+package core_programming.ProgrammingElements.PracticeProblem;/*4. Calculate Average of Three Numbers
 Write a program that takes three numbers as input from the user and prints
 their average.
 */

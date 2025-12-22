@@ -1,4 +1,4 @@
-package core_programming.PracticeProblem;/*1. PracticeProblem.Welcome to Bridgelabz!
+package core_programming.ProgrammingElements.PracticeProblem;/*1. PracticeProblem.Welcome to Bridgelabz!
 Write a program that prints "PracticeProblem.Welcome to Bridgelabz!" to the screen.
 */
 

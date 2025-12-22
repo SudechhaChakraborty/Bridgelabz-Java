@@ -1,4 +1,4 @@
-package core_programming.PracticeProblem;/*
+package core_programming.ProgrammingElements.PracticeProblem;/*
 3. Celsius to Fahrenheit Conversion
 Write a program that takes the temperature in Celsius as input and converts
 it to Fahrenheit using the formula:
