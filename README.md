@@ -1,5 +1,7 @@
-# Bridgelabz_Java_CG
-15th December
+# Bridgelabz_Java
+
+
+# 15th December
 
 - Initialized the GitHub repository by following standard naming conventions, coding guidelines, and folder structure best practices.
 - Studied core Java Programming Elements, focusing on basic syntax and program structure.
