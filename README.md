@@ -43,3 +43,24 @@ Learned Object-Oriented Programming fundamentals, including classes and objects.
 
 # 23rd December 2025
 Worked on Java constructors, instance variables vs. class variables, and access modifiers. Completed Level 1 lab practice to reinforce core object-oriented concepts.
+
+# 8th January 2026
+Practiced GitFlow workflow through hands-on execution. Created and configured a GitHub repository, initialized GitFlow, worked with feature branches, merged changes into the develop branch, created and completed release and hotfix branches, generated version tags, and pushed main, develop, and tags to GitHub.
+
+# 9th January 2026
+Worked on Level 1 lab practice covering Java keywords such as static and final, and practiced the instanceof operator. Completed and submitted the assigned lab tasks.
+
+# 10th January 2026
+Studied Object-Oriented Design Principles and completed the submissions of Class Diagrams, Object Diagrams, and Sequence Diagrams.
+
+# 12th January 2026
+Learned inheritance concepts in Java, including single-level, multilevel, and hierarchical inheritance. Studied key features of inheritance, method overriding, constructor inheritance, the relationship between polymorphism and inheritance, and the role of access modifiers in inheritance.
+
+# 13th January 2026
+Covered core object-oriented concepts such as encapsulation and polymorphism, and learned the implementation and use of interfaces and abstract classes in Java.
+
+# 14th January 2026
+Studied linked list data structures, including singly linked lists, doubly linked lists, and circular linked lists, along with their basic operations and use cases.
+
+# 16th January 2026
+Made corrections and updates to the GitHub repository by properly organizing files, fixing mistakes, updating commits, and ensuring the repository structure follows best practices.
