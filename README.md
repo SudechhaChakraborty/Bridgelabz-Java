@@ -12,3 +12,20 @@
   - Control Flow Statements
   - Arrays
 - Maintained consistency between local project structure and GitHub repository as per instructions.
+
+17th December
+
+- Practiced and implemented Java Methods concepts as part of lab exercises.
+- Worked on User-Defined Methods to modularize program logic.
+- Implemented methods that can be reused multiple times within programs.
+- Developed dynamic methods by passing parameters and returning results.
+- Practiced recursive methods for solving repetitive problems.
+- Used static methods effectively for utility-based operations.
+- Applied Java Standard Library methods in programs.
+- Utilized the java.lang.Math class for mathematical computations.
+- Followed best programming practices including:
+  - Using variables for all inputs, constants, and results
+  - Applying proper naming conventions for variables, methods, and classes
+  - Maintaining clear and meaningful method names indicating functionality
+- Submitted the Java Methods Practice assignment via GitHub.
+
