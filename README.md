@@ -64,3 +64,14 @@ Studied linked list data structures, including singly linked lists, doubly linke
 
 # 16th January 2026
 Made corrections and updates to the GitHub repository by properly organizing files, fixing mistakes, updating commits, and ensuring the repository structure follows best practices.
+
+# 17th January 2026
+made corrections and updated to my github,renamed files,organized structure,attended online class.
+
+# 19th January 2026
+revised the object oriented programming concepts.
+
+# 20th January 2026
+Gave my review in the object oriented concept and started with linked list programming.
+
+# 21st January 2026
