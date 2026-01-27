@@ -76,3 +76,15 @@ Gave my review in the object oriented concept and started with linked list progr
 
 # 21st January 2026
 Working on Algorithm's Runtime Analysis & Big-O Notation.
+
+# 22nd January 2026
+I completed Algorithm's Runtime Analysis & Big-O Notation and pushed it into the git hub ans studied singley linked list and doubley linked list.
+
+# 23rd January 2026
+I learnt sorthing algorithms and got started with my opps-Banner-App
+
+# 24th January 2026
+I started studying stack, completed till uc4 in my oops-Banner-App and gave a review on oops again.
+
+# 27th January 2026
+Completed my oops-Banner-App and revised the linked list.
