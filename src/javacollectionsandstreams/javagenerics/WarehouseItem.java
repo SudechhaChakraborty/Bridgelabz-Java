@@ -1,4 +1,4 @@
-package javacollectionsandstreams;
+package javacollectionsandstreams.javagenerics;
 
 import java.util.ArrayList;
 import java.util.List;

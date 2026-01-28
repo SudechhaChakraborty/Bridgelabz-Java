@@ -1,7 +1,4 @@
-package javacollectionsandstreams;
-
-import java.util.ArrayList;
-import java.util.List;
+package javacollectionsandstreams.javagenerics;
 
 // ---------- MealPlan Interface ----------
 interface MealPlan {
