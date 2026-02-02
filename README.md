@@ -88,3 +88,18 @@ I started studying stack, completed till uc4 in my oops-Banner-App and gave a re
 
 # 27th January 2026
 Completed my oops-Banner-App and revised the linked list.
+
+# 28th January 2026
+Worked on Java Collections concepts and completed the collections assignment for submission.
+
+# 29th January 2026
+Started working on the Factory Robot Hazard Analyzer project and set up the initial structure.
+
+# 30th January 2026
+Completed the Factory Robot Hazard Analyzer project and revised Data Structures in preparation for the review.
+
+# 31st January 2026
+Worked on Java IO Streams concepts, completed the practical implementation, and pushed the code to GitHub with proper folder structure and had data structure review.
+
+# 2nd February 2026
+Studied Java Exception Handling concepts, completed the practical implementation, and pushed the exceptions assignment to GitHub with proper folder structure.
