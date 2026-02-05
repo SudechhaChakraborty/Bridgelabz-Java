@@ -103,3 +103,12 @@ Worked on Java IO Streams concepts, completed the practical implementation, and 
 
 # 2nd February 2026
 Studied Java Exception Handling concepts, completed the practical implementation, and pushed the exceptions assignment to GitHub with proper folder structure.
+
+# 3rd February 2026
+Implemented the Ocean Fleet console-based application use case–wise, following OOPS and Data Structures concepts with GitFlow branching.
+
+# 4th February 2026
+Completed Regex validation programs and JUnit test cases and pushed the code to GitHub using the GitFlow process.
+
+# 5th February 2026
+Implemented Java 8 features including Streams and Lambda expressions and submitted the GitHub repository link on Google Classroom.
