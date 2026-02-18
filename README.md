@@ -112,3 +112,38 @@ Completed Regex validation programs and JUnit test cases and pushed the code to 
 
 # 5th February 2026
 Implemented Java 8 features including Streams and Lambda expressions and submitted the GitHub repository link on Google Classroom.
+
+# 6th February 2026  
+Studied thoroughly for the review session and recapped all the topics covered during the week, including Java IO Streams, Exception Handling, OOPS concepts, Data Structures, and Java 8 features.
+
+# 7th February 2026  
+Attended the PowerSkills program kickoff session. The importance of active participation, practical lab involvement, periodic evaluations, and real-time feedback was emphasized. The session began with introductions and highlighted the significance of communication, professionalism, and continuous skill development as part of the program.
+
+# 9th February 2026  
+Created a new repository named STREAM-API following the same GitFlow branching structure. Focused on setting up main and develop branches properly and preparing the project structure for Java 8 Streams API implementation.
+
+# 10th February 2026  
+Worked on Advanced Java – Java 8 Features, focusing on both theory and practical implementation of Streams API concepts. Revised functional interfaces, lambda expressions, and stream operations to strengthen understanding before implementation.
+
+# 11th February 2026  
+Completed and submitted assignments related to Java 8 Streams API and CSV Data Handling. Reviewed the concepts thoroughly and ensured proper folder structure and GitFlow process were followed while pushing the code to GitHub.
+
+# 12th February 2026  
+Started working on the console-based Lexical Twist Puzzle Application. Understood the problem statement and planned the implementation use case-wise (UC-wise) following proper OOPS principles and GitFlow branching strategy.
+
+# 13th February 2026  
+Reviewed pending assignments and ensured all previous submissions were completed up to CSV Data Handling. Focused on preparing for the upcoming review by revising important concepts and maintaining consistency in practice.
+
+# 14th February 2026  
+Attended the SoftSkills presentation session. Practiced structured communication, confident speaking, and clear articulation while presenting ideas. The session focused on improving presentation skills, body language, and professional confidence in a formal setup.
+
+# 16th February 2026  
+Worked on Trees and Graphs concepts. Studied the problem statements and implemented solutions focusing on traversal techniques (BFS and DFS), binary tree operations, and graph-based problem solving. Followed proper structure and logical approach while implementing the programs.
+
+# 17th February 2026  
+Prepared for the review session by revising previously covered topics, including Java 8 Features, Streams API, CSV Data Handling, Trees & Graphs, and OOPS concepts. Focused on strengthening conceptual clarity and reviewing practical implementations.
+
+# 18th February 2026  
+Studied Annotations and Reflection concepts in Java. Explored how annotations are defined and processed, and understood the use of reflection for inspecting classes, methods, and fields at runtime. Implemented practical examples to reinforce the concepts.
+
+
